@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.header("Hello World")
+st.header("Ethan is good at basketball")
+st.image("basketball.jpg")
